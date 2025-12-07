@@ -1,0 +1,11 @@
+OpSec --> La Seguridad Operacional (encargada de manteneru un entorno seguro para las operaciones diarias de una organización.
+
+---- Procesos de OpSec ----
+1. Identificación de los activos --> Identficar cosas que sean confidenciales
+2. Identificación de amenazas --> Que podria salir mal
+3. Identificación de vulnerabilidades --> Prevenir el problema (contraseñas, credenciales...)
+4. Control de acceso --> Determinar quien puede acceder y quien NO
+5. Monitoreo --> Proceso continuo que se adapta a las nuevas amenazas y cambios para mantenerlo seguro
+
+---- Responsabilidades de OpSec ----
+OpSec tiene la responsabilidad de mantener segura a la empresa con pruebas de penetracon y corrigiendo errores con su equipo.
